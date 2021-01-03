@@ -27,7 +27,7 @@ To run this project, log into the the Udacity Workspace:
 ```
 $ cd /home/workspace
 $ git clone https://github.com/peggycyggep/Project2
-$ cd ..
+$ cd Project2
 $ catkin_make
 ```
 2. In the same console or open another console, launch the robot
