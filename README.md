@@ -4,7 +4,9 @@
 * [Setup](#setup)
 
 ## General info
-The name of this project is 'Go Chase It!".  This is the 2nd project for the Udacity Robotics Software Engineering program.  The purpose of this project is to practice the control of robot and the processing of sensor data.
+The name of this project is 'Go Chase It!".  A 4-wheel robot is being simulated in an gazebo environment and a white ball.  By launching the 'ball_chaser' package, the robot will use the camera image to search and move toward to the white ball.  
+
+The purpose of this project is to practice the control of robot and the processing of sensor data.
 	
 ## Technologies
 Project is requires:
