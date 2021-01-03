@@ -25,20 +25,20 @@ To run this project, log into the the Udacity Workspace:
 
 1. Open a console, download and build the project
 ```
-$ cd <to the catkin workspace 'src' subfolder>
+$ cd /home/workspace
 $ git clone https://github.com/peggycyggep/Project2
 $ cd ..
 $ catkin_make
 ```
 2. In the same console or open another console, launch the robot
 ```
-$ cd <to the catkin workspace>
+$ cd /home/workspace/Project2
 $ source devel/setup
 $ roslaunch my_robot world.launch
 ```
 3. Open another console and launch the ball chaser
 ```
-$ cd <to the catkin workspace>
+$ cd /home/workspace/Project2
 $ source devel/setup
 $ roslaunch ball_chaser ball_chaser.launch
 ```
